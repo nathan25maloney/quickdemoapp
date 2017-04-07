@@ -1,0 +1,31 @@
+h1 {
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding-bottom: 15px;
+	padding-top: 15px;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+body {
+	background: #c7c4d1;
+	margin: 20px 20px 20px 20px;
+}
+
+h3{
+	text-align: center;
+	color: #451bb7;
+}
+h2 {
+	color: #451bb7;
+}
+
+p {
+	
+	padding-top: 60px;
+}
+
+.tab { 
+	text-indent: 5% 
+}
