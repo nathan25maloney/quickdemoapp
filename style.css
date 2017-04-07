@@ -1,6 +1,6 @@
 h1 {
-	background-color: black;
-	color: white;
+	background-color: #818064;
+	color: #FEF7C9;
 	text-align: center;
 	padding-bottom: 15px;
 	padding-top: 15px;
@@ -9,23 +9,27 @@ h1 {
 }
 
 body {
-	background: #c7c4d1;
-	margin: 20px 20px 20px 20px;
+	background: #FEF7C9;
 }
+
 
 h3{
 	text-align: center;
-	color: #451bb7;
+	color: #818064;
 }
 h2 {
-	color: #451bb7;
+	color: #818064;
 }
 
 p {
-	
+	color: #818064;
 	padding-top: 60px;
 }
 
 .tab { 
 	text-indent: 5% 
+}
+
+a {
+	color: #818064;
 }
